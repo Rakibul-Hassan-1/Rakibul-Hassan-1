@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://fb.com/profile.php?id=100041860174909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100041860174909" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakibul-hassan-467a941b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-hassan-467a941b4" height="30" width="40" /></a>
-<a href="https://kaggle.com/rakibul hassan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibul hassan99" height="30" width="40" /></a>
+<a href="https://kaggle.com/rakibulhassan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibul hassan99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Online Judges:</h3>
