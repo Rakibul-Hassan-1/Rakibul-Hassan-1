@@ -20,7 +20,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 👨‍💻 **Talking about Personal Stuffs:**
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently learning Data Structures and Algorithms on [Phitron](https://phitron.io)
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently team member of XPSC on [Phitron](https://phitron.io)
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp; In my free time I read tech articles
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 55 WPM
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at rakibulhassan29052000@gmail.com
