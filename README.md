@@ -22,7 +22,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently learning Data Structures and Algorithms on [Phitron](https://phitron.io)
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp; In my free time I read tech articles
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 110 WPM
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 55 WPM
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at rakibulhassan29052000@gmail.com
 
 <br>
@@ -49,7 +49,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" width="3000"-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samiunblack/samiunblack/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/samiunblack/samiunblack/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/samiunblack/samiunblack/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake%20(1).svg">
 </picture>
