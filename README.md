@@ -1,4 +1,4 @@
-   ![intro](https://github.com/samiunblack/samiunblack/blob/main/intro.jpg)
+   ![intro](https://github.com/samiunblack/samiunblack/blob/main/image.jpg)
   <div align="center">
    <a href="https://leetcode.com/samiunblack" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
