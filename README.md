@@ -1,12 +1,12 @@
-   ![intro](https://github.com/samiunblack/samiunblack/blob/main/image.jpg)
+   ![intro](https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/image.png)
   <div align="center">
-   <a href="https://leetcode.com/samiunblack" target="_blank" rel="noreferrer">
+   <a href="https://leetcode.com/i_am_rakibul/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
-   <a href="https://codeforces.com/profile/samiunblack" target="_blank" rel="noreferrer">
+   <a href="https://codeforces.com/profile/rakibulhassan29052000" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces Badge"/>
     </a>
-    <a href="https://hackerrank.com/samiunblack" target="_blank" rel="noreferrer">
+    <a href="https://www.hackerrank.com/RakibulHassan?hr_r=1" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank Badge"/>
     </a>
    
@@ -23,7 +23,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently learning Data Structures and Algorithms on [Phitron](https://phitron.io)
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp; In my free time I read tech articles
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 110 WPM
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at samiunblack@gmail.com
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at rakibulhassan29052000@gmail.com
 
 <br>
 
