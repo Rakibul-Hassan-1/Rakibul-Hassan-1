@@ -28,7 +28,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <br>
 
 🔥 **My Stats :**
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-hassan-1&theme=github-dark" alt="rakibul-hassan-1" /></p>
 <img  align="right" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/git.webp"> 
 
 <img align="left" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/vscode.webp" width="150">
