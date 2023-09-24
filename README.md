@@ -1,58 +1,55 @@
-<h1 align="center">Hi 👋, I'm Rakibul Hassan</h1>
-<h3 align="center">A passionate competitive programmer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-hassan-1&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hassan-1" /> </p>
-
-- 🌱 I’m currently learning **Algorithms**
-
-- 💬 Ask me about **DSA, Algorithms**
-- Profile Link-> https://rakibul-hassan-1.github.io/
-- 📫 How to reach me **rakibulhassan29052000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/profile.php?id=100041860174909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100041860174909" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakibul-hassan-467a941b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-hassan-467a941b4" height="30" width="40" /></a>
-<a href="https://kaggle.com/rakibulhassan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakibul hassan99" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Online Judges:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/rakibulhassan29052000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakibulhassan29052000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i_am_rakibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_am_rakibul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rakibulhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rakibulhassan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rakibulhassan2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakibulhassan2" height="30" width="40" /></a>
-</p>
+   ![intro](https://github.com/samiunblack/samiunblack/blob/main/intro.jpg)
+  <div align="center">
+   <a href="https://leetcode.com/samiunblack" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
+   <a href="https://codeforces.com/profile/samiunblack" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces Badge"/>
+    </a>
+    <a href="https://hackerrank.com/samiunblack" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank Badge"/>
+    </a>
+   
+</div>
 
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-<h3 align = "left">Web Technologies: </h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</p>
-
-<h3 align = "left">Web Frameworks: </h3>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
+## Glad to see you here! 😄
 
 
+I am a software engineer and problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
+
+👨‍💻 **Talking about Personal Stuffs:**
+
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently learning Data Structures and Algorithms on [Phitron](https://phitron.io)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp; In my free time I read tech articles
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 110 WPM
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at samiunblack@gmail.com
+
+<br>
+
+🔥 **My Stats :**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark)](https://git.io/streak-stats) <img  align="right" src="https://github.com/samiunblack/samiunblack/blob/main/git.webp"> 
+
+<img align="left" src="https://github.com/samiunblack/samiunblack/blob/main/vscode.webp" width="150">
+<!--START_SECTION:waka-->
+
+```txt
+From: 16 September 2023 - To: 23 September 2023
+
+C++        7 hrs 12 mins   ████████████████████████▓   98.34 %
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
+<!--END_SECTION:waka--> 
 
 
-
-
-
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-Hassan-1&layout=compact&theme=radical" alt=Rakibul-Hassan-1 />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Hassan-1&theme=highcontrast" alt="Rakibul-Hassan-1" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul-Hassan-1&theme=react-dark"/>
-
+<!--img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" width="3000"-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samiunblack/samiunblack/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/samiunblack/samiunblack/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/samiunblack/samiunblack/blob/output/github-contribution-grid-snake.svg">
+</picture>
