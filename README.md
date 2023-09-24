@@ -29,9 +29,9 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 🔥 **My Stats :**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark)](https://git.io/streak-stats) <img  align="right" src="https://github.com/samiunblack/samiunblack/blob/main/git.webp"> 
+<img  align="right" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/git.webp"> 
 
-<img align="left" src="https://github.com/samiunblack/samiunblack/blob/main/vscode.webp" width="150">
+<img align="left" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/vscode.webp" width="150">
 <!--START_SECTION:waka-->
 
 ```txt
