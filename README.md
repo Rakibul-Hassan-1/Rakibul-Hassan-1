@@ -13,16 +13,19 @@
 </div>
 
 
-## Glad to see you here! 😄
+## Hi there, I'm Rakibul Hassan 👋
 
 
-I am a problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
+#### I am a problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
 
 👨‍💻 **Talking about Personal Stuffs:**
 
+#### 🥅 2024 Goals: To become codeforces specialist, learn web development and get a job.
+
+
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently team member of XPSC Club.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp; In my free time I read tech articles
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 55 WPM
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 60 WPM
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at rakibulhassan29052000@gmail.com
 
 <br>
