@@ -13,7 +13,10 @@
 </div>
 
 
-## Hi there, I'm Rakibul Hassan 👋
+
+Hi there, I'm Rakibul Hassan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+======================================================================================================================================
+
 
 
 #### I am a problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
