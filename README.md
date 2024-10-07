@@ -23,7 +23,6 @@ Hi there, I'm Rakibul Hassan ![](https://user-images.githubusercontent.com/18350
 
 👨‍💻 **Talking about Personal Stuffs:**
 
-#### 🥅 2024 Goals: To become codeforces specialist, learn web development and get a job.
 
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently member of XPSC Club.
