@@ -1,9 +1,12 @@
-<!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&pause=1000&color=AC33B8&center=true&vCenter=true&width=600&lines=⚡+Rakibul+Hassan+⚡" alt="Typing SVG" />
-  
-  <!-- Badges -->
-  <div>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=AC33B8&center=true&vCenter=true&width=600&lines=Rakibul+Hassan;Aspiring+Full+Stack+Developer;Fresher+%7C+Open+to+Work" alt="Typing SVG" />
+  <p>
+    <a href="mailto:rakibulhassan29052000@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     <a href="https://leetcode.com/i_am_rakibul/" target="_blank">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
     </a>
@@ -13,20 +16,22 @@
     <a href="https://www.hackerrank.com/RakibulHassan?hr_r=1" target="_blank">
       <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
     </a>
-  </div>
+  </p>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-- ⚡ Passionate **Full Stack Developer & Problem Solver**
-- 🚀 Skilled in building scalable, efficient, and user-friendly solutions
-- 🌱 Continuously learning and sharing knowledge with the community
-- 🎯 Interested in **Web Development | Competitive Programming | System Design**
-- 💌 Reach me at: **rakibulhassan_cse27d@portcity.edu.bd**
+I'm a **Aspiring Software Engineer** with a solid foundation in **Data Structures & Algorithms** (400+ problems solved across LeetCode, Codeforces, and HackerRank) and hands-on experience building **personal and academic projects** with **Next.js, TypeScript, and Node.js**. I'm looking for my first full-time or internship role where I can learn from a real team, contribute from day one, and keep growing as an engineer.
+
+- 🎯 Actively looking for **Junior / Entry-Level Full Stack, Frontend, or Backend Developer** roles (internship-friendly)
+- 🌱 Currently learning **Next.js, backend fundamentals, and system design basics**
+- 💡 Comfortable with **DSA & problem solving** - competitive programming is where I sharpen my fundamentals
+- 🤝 Open to internships, freelance work, and collaborative open-source projects
+- 📫 **rakibulhassan29052000@gmail.com**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -96,8 +101,6 @@
 
 ### 🎯 Current Focus
 
-- Building **scalable web applications** with Next.js  
-- Mastering **TypeScript & JavaScript patterns**  
 - Exploring **Microservices Architecture**  
 - Contributing to **Open Source Projects**  
 - Learning **System Design & Architecture**  
