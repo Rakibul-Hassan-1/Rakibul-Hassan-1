@@ -76,35 +76,4 @@ I'm a **Aspiring Software Engineer** with a solid foundation in **Data Structure
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🌟 Highlights
 
-- 🚀 Full Stack Development with **Next.js** & **Express**
-- 📊 Database Management (**PostgreSQL, MongoDB**)
-- 🎯 **TypeScript** for type-safe scalable apps
-- 🛠️ Secure **Authentication & Authorization**
-- 📱 Responsive **Modern UI Development**
-- 🔍 API Development & Testing with **Postman**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibul-hassan-1&bg_color=141321&color=fe428e&line=f3368d&point=fe428e&area=true&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-### 🎯 Current Focus
-
-- Exploring **Microservices Architecture**  
-- Contributing to **Open Source Projects**  
-- Learning **System Design & Architecture**  
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
